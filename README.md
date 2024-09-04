@@ -1,4 +1,3 @@
-#alunoalurastart
 ###Boas vindas ao meu perfil:blue_heart
 
 <p>Meu nome é Maisa Freitas </p>
